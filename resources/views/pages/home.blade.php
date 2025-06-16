@@ -164,7 +164,7 @@
                     </div>
                 </div>
             </div>
-             <div class="swiper-slide">
+            <div class="swiper-slide">
                 <div class="main-slider__img">
                     <img src="assets/images/resources/main-slider-img-1-3.jpg" alt="">
                 </div>
@@ -206,7 +206,7 @@
                     </div>
                 </div>
             </div>
-             <div class="swiper-slide">
+            <div class="swiper-slide">
                 <div class="main-slider__img">
                     <img src="assets/images/resources/main-slider-img-1-3.jpg" alt="">
                 </div>
@@ -265,7 +265,7 @@
     <div class="container">
         <div class="section-title text-center">
             <div class="section-title__tagline-box">
-                <span class="section-title__tagline">event benefits</span>
+                <span class="section-title__tagline">event services</span>
             </div>
             <h2 class="section-title__title">Why should you joint <br> our event</h2>
         </div>
@@ -276,10 +276,9 @@
                     <div class="services-one__icon">
                         <span class="icon-camera"></span>
                     </div>
-                    <h3 class="services-one__title"><a href="event-prodigy.html">Eventful Ventures</a></h3>
-                    <p class="services-one__text">Events bring people together for a shared experience and From
-                        weddings</p>
-                    <a href="event-prodigy.html" class="services-one__read-more">Read More <span
+                    <h3 class="services-one__title"><a href="event-prodigy.html">Choreography</a></h3>
+                    <p class="services-one__text">Musicals Concerts, Theatrical Acts, Dance Reality Shows, Award Shows, Serials, Advertisements,</p>
+                    <a href="#" class="services-one__read-more">Read More <span
                             class="icon-arrow-right"></span></a>
                 </div>
             </div>
@@ -290,10 +289,10 @@
                     <div class="services-one__icon">
                         <span class="icon-skewer"></span>
                     </div>
-                    <h3 class="services-one__title"><a href="stellar-events-co.html">Stellar Events Co</a></h3>
-                    <p class="services-one__text">Events bring people together for a shared experience and From
-                        weddings</p>
-                    <a href="stellar-events-co.html" class="services-one__read-more">Read More <span
+                    <h3 class="services-one__title"><a href="#">MUSIC VIDEOS</a></h3>
+                    <p class="services-one__text">
+                        Choreography for Music videos with Celebrities, Dance Music Video Collaboration.</p>
+                    <a href="#" class="services-one__read-more">Read More <span
                             class="icon-arrow-right"></span></a>
                 </div>
             </div>
@@ -304,12 +303,53 @@
                     <div class="services-one__icon">
                         <span class="icon-dinner-table"></span>
                     </div>
-                    <h3 class="services-one__title"><a href="elite-event-management.html">Elite Event
-                            Management</a>
-                    </h3>
-                    <p class="services-one__text">Events bring people together for a shared experience and From
-                        weddings</p>
-                    <a href="elite-event-management.html" class="services-one__read-more">Read More <span
+                    <h3 class="services-one__title"><a href="#">WEDDING</a></h3>
+                    <p class="services-one__text">
+                        Choreography and Training for Sangeet & Wedding</p>
+                    <a href="#" class="services-one__read-more">Read More <span
+                            class="icon-arrow-right"></span></a>
+                </div>
+            </div>
+            <!--Services One Single End-->
+        </div>
+        <div class="row">
+            <!--Services One Single Start-->
+            <div class="col-xl-4 col-lg-4 wow fadeInLeft" data-wow-delay="100ms">
+                <div class="services-one__single">
+                    <div class="services-one__icon">
+                        <span class="icon-camera"></span>
+                    </div>
+                    <h3 class="services-one__title"><a href="#">CORPORATE EVENTS</a></h3>
+                    <p class="services-one__text">Performances for National & International Shows and Corporate Events</p>
+                    <a href="#" class="services-one__read-more">Read More <span
+                            class="icon-arrow-right"></span></a>
+                </div>
+            </div>
+            <!--Services One Single End-->
+            <!--Services One Single Start-->
+            <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="200ms">
+                <div class="services-one__single">
+                    <div class="services-one__icon">
+                        <span class="icon-skewer"></span>
+                    </div>
+                    <h3 class="services-one__title"><a href="#">AWARD FUNCTIONS</a></h3>
+                    <p class="services-one__text">
+                        Performances in renowned award ceremonies at National & International Platforms</p>
+                    <a href="#" class="services-one__read-more">Read More <span
+                            class="icon-arrow-right"></span></a>
+                </div>
+            </div>
+            <!--Services One Single End-->
+            <!--Services One Single Start-->
+            <div class="col-xl-4 col-lg-4 wow fadeInRight" data-wow-delay="300ms">
+                <div class="services-one__single">
+                    <div class="services-one__icon">
+                        <span class="icon-dinner-table"></span>
+                    </div>
+                    <h3 class="services-one__title"><a href="#">Celebrity Judge</a></h3>
+                    <p class="services-one__text">
+                        Suresh Mukund & Team as Celebrity Judge (for TV Dance Reality Shows/ Schools / Colleges/ Dance Events)</p>
+                    <a href="#" class="services-one__read-more">Read More <span
                             class="icon-arrow-right"></span></a>
                 </div>
             </div>
@@ -325,19 +365,218 @@
         <ul class="sliding-text__list list-unstyled marquee_mode">
             <li>
                 <h2 data-hover="Magic of Events" class="sliding-text__title">Magic of Events
-                    <img src="assets/images/icon/star-icon.png" alt=""></h2>
+                    <img src="assets/images/icon/star-icon.png" alt="">
+                </h2>
             </li>
             <li>
                 <h2 data-hover=" Celebrate Life" class="sliding-text__title"> Celebrate Life
-                    <img src="assets/images/icon/star-icon.png" alt=""></h2>
+                    <img src="assets/images/icon/star-icon.png" alt="">
+                </h2>
             </li>
         </ul>
     </div>
 </section>
 <!-- Sliding Text One End -->
 
+<!--Testimonial One Start-->
+<section class="testimonial-one">
+    <div class="container">
+        <div class="section-title text-center">
+            <div class="section-title__tagline-box">
+                <span class="section-title__tagline">Clients Testimonial</span>
+            </div>
+            <h2 class="section-title__title section-title__title--two">They often involve activities <br> such
+                as performances</h2>
+        </div>
+        <div class="testimonial-one__carousel-box">
+            <div class="thm-swiper__slider swiper-container" data-swiper-options='{
+                        "slidesPerView": 1, 
+                        "spaceBetween": 0,
+                        "speed": 2000,
+                        "loop": true,
+                        "pagination": {
+                            "el": ".swiper-dot-style1",
+                            "type": "bullets",
+                            "clickable": true
+                        },
+
+                        
+
+                        "navigation": {
+                            "nextEl": ".swiper-button-prev1",
+                            "prevEl": ".swiper-button-next1"
+                        },
+                        "autoplay": { "delay": 9000 },
+                        "breakpoints": {
+                                "0": {
+                                    "spaceBetween": 0,
+                                    "slidesPerView": 1
+                                },
+                                "375": {
+                                    "spaceBetween": 0,
+                                    "slidesPerView": 1
+                                },
+                                "575": {
+                                    "spaceBetween": 0,
+                                    "slidesPerView": 1
+                                },
+                                "768": {
+                                    "spaceBetween": 30,
+                                    "slidesPerView": 2
+                                },
+                                "992": {
+                                    "spaceBetween": 30,
+                                    "slidesPerView": 2
+                                },
+                                "1200": {
+                                    "spaceBetween": 30,
+                                    "slidesPerView":2
+                                },
+                                "1320": {
+                                    "spaceBetween": 30,
+                                    "slidesPerView":2
+                                }
+                            }
+                    }'>
+                <div class="swiper-wrapper">
+                    <!--Testimonial One Single Start-->
+                    <div class="swiper-slide">
+                        <div class="testimonial-one__single">
+                            <div class="testimonial-one__client-info-and-review">
+                                <div class="testimonial-one__client-info">
+                                    <div class="testimonial-one__client-img">
+                                        <img src="assets/images/testimonial/testimonial-one-client-1-1.jpg"
+                                            alt="">
+                                    </div>
+                                    <div class="testimonial-one__client-content">
+                                        <h4 class="testimonial-one__client-name"><a
+                                                href="testimonials.html">Soonruta Kothadia</a></h4>
+                                        <p class="testimonial-one__sub-title"></p>
+                                    </div>
+                                </div>
+                                <div class="testimonial-one__review">
+                                    <span class="icon-star"></span>
+                                    <span class="icon-star"></span>
+                                    <span class="icon-star"></span>
+                                    <span class="icon-star"></span>
+                                    <span class="icon-star clr-start"></span>
+                                </div>
+                            </div>
+                            <p class="testimonial-one__text">Spacious studio in Andheri! We rented it to host some workshops and it was a great experience. A music system update would make it even better.</p>
+                            <div class="testimonial-one__quote">
+                                <span class="icon-quote"></span>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Testimonial One Single End-->
+                    <!--Testimonial One Single Start-->
+                    <div class="swiper-slide">
+                        <div class="testimonial-one__single">
+                            <div class="testimonial-one__client-info-and-review">
+                                <div class="testimonial-one__client-info">
+                                    <div class="testimonial-one__client-img">
+                                        <img src="assets/images/testimonial/testimonial-one-client-1-2.jpg"
+                                            alt="">
+                                    </div>
+                                    <div class="testimonial-one__client-content">
+                                        <h4 class="testimonial-one__client-name"><a
+                                                href="testimonials.html">Anveshika Singh</a></h4>
+                                        <p class="testimonial-one__sub-title"></p>
+                                    </div>
+                                </div>
+                                <div class="testimonial-one__review">
+                                    <span class="icon-star"></span>
+                                    <span class="icon-star"></span>
+                                    <span class="icon-star"></span>
+                                    <span class="icon-star"></span>
+                                    <span class="icon-star clr-start"></span>
+                                </div>
+                            </div>
+                            <p class="testimonial-one__text">This workshop was really amazing, as it gave a proper clarification about what all is gonna happen in the course and also what elements an individual has to work on to enter the fashion industry.A good path explainer and platform for those who want to enter this industry.</p>
+                            <div class="testimonial-one__quote">
+                                <span class="icon-quote"></span>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Testimonial One Single End-->
+                    <!--Testimonial One Single Start-->
+                    <div class="swiper-slide">
+                        <div class="testimonial-one__single">
+                            <div class="testimonial-one__client-info-and-review">
+                                <div class="testimonial-one__client-info">
+                                    <div class="testimonial-one__client-img">
+                                        <img src="assets/images/testimonial/testimonial-one-client-1-3.jpg"
+                                            alt="">
+                                    </div>
+                                    <div class="testimonial-one__client-content">
+                                        <h4 class="testimonial-one__client-name"><a
+                                                href="testimonials.html">aartiprajapati2809</a></h4>
+                                        <p class="testimonial-one__sub-title"></p>
+                                    </div>
+                                </div>
+                                <div class="testimonial-one__review">
+                                    <span class="icon-star"></span>
+                                    <span class="icon-star"></span>
+                                    <span class="icon-star"></span>
+                                    <span class="icon-star"></span>
+                                    <span class="icon-star clr-start"></span>
+                                </div>
+                            </div>
+                            <p class="testimonial-one__text">The kings dance studio is very good choice for all  beginner dancers . The management is well trained and all ways ready to help  all the students . Teachers have excellent teaching experience all the mam and sir are very good  in on  their own styles.</p>
+                            <div class="testimonial-one__quote">
+                                <span class="icon-quote"></span>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Testimonial One Single End-->
+                    <!--Testimonial One Single Start-->
+                    <div class="swiper-slide">
+                        <div class="testimonial-one__single">
+                            <div class="testimonial-one__client-info-and-review">
+                                <div class="testimonial-one__client-info">
+                                    <div class="testimonial-one__client-img">
+                                        <img src="assets/images/testimonial/testimonial-one-client-1-4.jpg"
+                                            alt="">
+                                    </div>
+                                    <div class="testimonial-one__client-content">
+                                        <h4 class="testimonial-one__client-name"><a
+                                                href="testimonials.html">Anishek Singh</a></h4>
+                                        <p class="testimonial-one__sub-title"></p>
+                                    </div>
+                                </div>
+                                <div class="testimonial-one__review">
+                                    <span class="icon-star"></span>
+                                    <span class="icon-star"></span>
+                                    <span class="icon-star"></span>
+                                    <span class="icon-star"></span>
+                                    <span class="icon-star clr-start"></span>
+                                </div>
+                            </div>
+                            <p class="testimonial-one__text">I'm doing diploma form kings and the learning experience is awesome and the class atmosphere is energetic.the teachers are very supportive and always ready to help</p>
+                            <div class="testimonial-one__quote">
+                                <span class="icon-quote"></span>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Testimonial One Single End-->
+                </div>
+            </div>
+            <!-- If we need navigation buttons -->
+            <div class="testimonial-one__nav">
+                <div class="swiper-button-next1">
+                    <i class="icon-angle-left"></i>
+                </div>
+                <div class="swiper-button-prev1">
+                    <i class="icon-angle-right"></i>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!--Testimonial One End-->
+
 <!-- Event One Start -->
-<section class="event-one">
+<section class="event-one d-none">
     <div class="container">
         <div class="event-one__inner wow fadeInUp" data-wow-delay="300ms">
             <div class="event-one__top">
@@ -388,7 +627,7 @@
         <div class="row">
             <div class="col-xl-6">
                 <div class="buy-ticket__left wow fadeInLeft" data-wow-delay="100ms">
-                    <ul class="buy-ticket__address list-unstyled">
+                    <!-- <ul class="buy-ticket__address list-unstyled">
                         <li>
                             <div class="icon">
                                 <span class="icon-clock"></span>
@@ -405,15 +644,15 @@
                                 <p>10 Am To 10 Pm 20 April 2024</p>
                             </div>
                         </li>
-                    </ul>
-                    <h3 class="buy-ticket__title">Grab Your Seat Wow Or You May Regret it Once</h3>
-                    <p class="buy-ticket__text">Events bring people together for a shared experien celebration a
-                        From weddings and <br> birthdays to conferences Events bring people together for a
-                        shared </p>
+                    </ul> -->
+                    <h3 class="buy-ticket__title">About Kings</h3>
+                    <p class="buy-ticket__text">At The Kings, we don’t just dance; we elevate it to an art form. From our humble beginnings to becoming international champions, our journey has been nothing short of spectacular. Established in Mumbai, our dance studio is not just a place to learn dance; it’s a vibrant community where passion meets excellence.</p>
+                    <p class="buy-ticket__text">
+                        Founded in 2009, The Kings began as a small group of dedicated dancers with a dream. Today, we are renowned for our innovative choreography, high-energy performances, and unmatched dedication to the craft. Our studio offers a diverse range of dance styles including hip-hop, contemporary, Bollywood, and classical Indian dance, catering to dancers of all ages and skill levels.</p>
                     <div class="buy-ticket__btn-box">
-                        <a href="contact.html" class="buy-ticket__btn-1 thm-btn">Buy Your Ticket<span
+                        <a href="#" class="buy-ticket__btn-1 thm-btn">Read More<span
                                 class="icon-arrow-right"></span> </a>
-                        <a href="contact.html" class="buy-ticket__btn-2 thm-btn">Contact Us<span
+                        <a href="#" class="buy-ticket__btn-2 thm-btn">Contact Us<span
                                 class="icon-arrow-right"></span> </a>
                     </div>
                 </div>
@@ -435,7 +674,7 @@
     <div class="container">
         <div class="section-title text-center">
             <div class="section-title__tagline-box">
-                <span class="section-title__tagline">Our Team Member</span>
+                <span class="section-title__tagline">Our Courses</span>
             </div>
             <h2 class="section-title__title">our amaizing & lerned <br> event speakerss</h2>
         </div>
@@ -447,16 +686,14 @@
                         <div class="team-one__img">
                             <img src="assets/images/team/team-1-1.jpg" alt="">
                             <div class="team-one__content">
-                                <h4 class="team-one__name"><a href="team-details.html">David Beckham</a></h4>
-                                <p class="team-one__sub-title">Speaker</p>
+                                <h4 class="team-one__name"><a href="#">KINGS GOLDEN PASS - ONE YEAR UNLIMITED ACCESS</a></h4>
+                                <!-- <p class="team-one__sub-title">Speaker</p> -->
                             </div>
                             <div class="team-one__content-hover">
-                                <h4 class="team-one__name-hover"><a href="team-details.html">David Beckham</a>
+                                <h4 class="team-one__name-hover"><a href="#">KINGS GOLDEN PASS - ONE YEAR UNLIMITED ACCESS</a>
                                 </h4>
-                                <p class="team-one__sub-title-hover">Speaker</p>
-                                <p class="team-one__text-hover">Events bring people together fo shared
-                                    experience and celebration. weddingsn and birthdays to conferences
-                                    festivalsn events create memories</p>
+                                <!-- <p class="team-one__sub-title-hover">Speaker</p> -->
+                                <p class="team-one__text-hover">Enjoy a year of unlimited dance training at Kings Dance Studio! Access all courses and workshops, compete in in-house events, and customize your schedule. Explore styles like Hip-hop, Ballet, Contemporary, and more. Benefit from career opportunities and learn from top-notch instructors in a vibrant dance community. Elevate your dance journey today!</p>
                             </div>
                         </div>
                     </div>
@@ -470,16 +707,14 @@
                         <div class="team-one__img">
                             <img src="assets/images/team/team-1-2.jpg" alt="">
                             <div class="team-one__content">
-                                <h4 class="team-one__name"><a href="team-details.html">David Betman</a></h4>
-                                <p class="team-one__sub-title">Singer</p>
+                                <h4 class="team-one__name"><a href="#">PROFESSIONAL TRAINING PROGRAM</a></h4>
+                                <!-- <p class="team-one__sub-title">Singer</p> -->
                             </div>
                             <div class="team-one__content-hover">
-                                <h4 class="team-one__name-hover"><a href="team-details.html">David Betman</a>
+                                <h4 class="team-one__name-hover"><a href="#">PROFESSIONAL TRAINING PROGRAM</a>
                                 </h4>
-                                <p class="team-one__sub-title-hover">Singer</p>
-                                <p class="team-one__text-hover">Events bring people together fo shared
-                                    experience and celebration. weddingsn and birthdays to conferences
-                                    festivalsn events create memories</p>
+                                <!-- <p class="team-one__sub-title-hover">Singer</p> -->
+                                <p class="team-one__text-hover">Discover the key to unlocking your dance potential with  professional training program. Elevate your skills under expert guidance, tailored to enhance technique and artistry. Our program ensures you receive certification, stay updated with real-time knowledge, and participate in exclusive masterclasses with renowned dancers and choreographers. Join us to cultivate your passion and achieve dance excellence. </p>
                             </div>
                         </div>
                     </div>
@@ -493,16 +728,14 @@
                         <div class="team-one__img">
                             <img src="assets/images/team/team-1-3.jpg" alt="">
                             <div class="team-one__content">
-                                <h4 class="team-one__name"><a href="team-details.html">Jessica Brown</a></h4>
-                                <p class="team-one__sub-title">Content Creator</p>
+                                <h4 class="team-one__name"><a href="team-details.html">INTENSIVE TRAINING PROGRAM</a></h4>
+                                <!-- <p class="team-one__sub-title">Content Creator</p> -->
                             </div>
                             <div class="team-one__content-hover">
-                                <h4 class="team-one__name-hover"><a href="team-details.html">Jessica Brown</a>
+                                <h4 class="team-one__name-hover"><a href="team-details.html">INTENSIVE TRAINING PROGRAM</a>
                                 </h4>
-                                <p class="team-one__sub-title-hover">Content Creator</p>
-                                <p class="team-one__text-hover">Events bring people together fo shared
-                                    experience and celebration. weddingsn and birthdays to conferences
-                                    festivalsn events create memories</p>
+                                <!-- <p class="team-one__sub-title-hover">Content Creator</p> -->
+                                <p class="team-one__text-hover">Join our Intensive Training Program at Kings Dance Studio, tailored for professionals looking to master a particular dance style. Refine your technique, enhance artistry, and receive personalized coaching in a focused, transformative environment. Elevate your dance skills with us today.</p>
                             </div>
                         </div>
                     </div>
@@ -546,37 +779,37 @@
                             <li>
                                 <div class="event-direction__counter-single">
                                     <div class="event-direction__counter-box">
-                                        <h3 class="odometer" data-count="100">00</h3>
+                                        <h3 class="odometer" data-count="100">15</h3>
                                         <span class="event-direction__counter-plus">+</span>
                                     </div>
-                                    <p class="event-direction__counter-text">Our Event Artists</p>
+                                    <p class="event-direction__counter-text">Years of Experience</p>
                                 </div>
                             </li>
                             <li>
                                 <div class="event-direction__counter-single">
                                     <div class="event-direction__counter-box">
-                                        <h3 class="odometer" data-count="101">00</h3>
+                                        <h3 class="odometer" data-count="101">10,000</h3>
                                         <span class="event-direction__counter-plus">+</span>
                                     </div>
-                                    <p class="event-direction__counter-text">Hours Of Music</p>
+                                    <p class="event-direction__counter-text">Certified Students</p>
                                 </div>
                             </li>
                             <li>
                                 <div class="event-direction__counter-single">
                                     <div class="event-direction__counter-box">
-                                        <h3 class="odometer" data-count="10">00</h3>
+                                        <h3 class="odometer" data-count="10">5,000</h3>
                                         <span class="event-direction__counter-plus">+</span>
                                     </div>
-                                    <p class="event-direction__counter-text">Event Stages</p>
+                                    <p class="event-direction__counter-text">Live Shows</p>
                                 </div>
                             </li>
                             <li>
                                 <div class="event-direction__counter-single">
                                     <div class="event-direction__counter-box">
-                                        <h3 class="odometer" data-count="20">00</h3>
+                                        <h3 class="odometer" data-count="20">100</h3>
                                         <span class="event-direction__counter-plus">+</span>
                                     </div>
-                                    <p class="event-direction__counter-text">Music Brands</p>
+                                    <p class="event-direction__counter-text">Awards won</p>
                                 </div>
                             </li>
                         </ul>
