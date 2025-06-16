@@ -30,7 +30,7 @@
                     <div class="row">
                         <div class="col-xl-6">
                             <div class="main-slider__content">
-                                <p class="main-slider__sub-title">Music fastival</p>
+                                <p class="main-slider__sub-title">Kings Dance Studio: Where Passion Meets Movement!</p>
                                 <h2 class="main-slider__title">State-of-the-Art <br> <span>Facilities</span>
                                 </h2>
                                 <p class="main-slider__text">Our purpose-built dance studio is equipped with top-notch amenities and <br> a spacious dance floor to enhance your training experience. Experience the thrill <br> of dancing in a professional setting that is designed to inspire and elevate your <br> performance.</p>
@@ -52,8 +52,8 @@
                                         </div>
                                     </li>
                                 </ul> -->
-                                <div class="main-slider__btn-box">
-                                    <a href="contact.html" class="main-slider__btn thm-btn">Purchase Ticket
+                                <div class="main-slider__btn-box pt-4">
+                                    <a href="contact.html" class="main-slider__btn thm-btn">Book Us Live
                                         <span class="icon-arrow-right"></span> </a>
                                 </div>
                             </div>
@@ -81,7 +81,7 @@
                     <div class="row">
                         <div class="col-xl-12">
                             <div class="main-slider__content">
-                                <p class="main-slider__sub-title">Music fastival</p>
+                                <p class="main-slider__sub-title">Kings Dance Studio: Where Passion Meets Movement!</p>
                                 <h2 class="main-slider__title">Expert <span>Instruction</span>
                                 </h2>
                                 <p class="main-slider__text">Our team of experienced dance instructors are dedicated to helping students of all levels achieve <br>their dance goals. Whether you're a beginner looking to learn the basics or an experienced dancer <br>aiming to refine your skills, our instructors are here to guide and support you every step of the way.</p>
@@ -103,8 +103,8 @@
                                         </div>
                                     </li>
                                 </ul> -->
-                                <div class="main-slider__btn-box">
-                                    <a href="contact.html" class="main-slider__btn thm-btn">Purchase Ticket
+                                <div class="main-slider__btn-box pt-4">
+                                    <a href="contact.html" class="main-slider__btn thm-btn">Book Us Live
                                         <span class="icon-arrow-right"></span> </a>
                                 </div>
                             </div>
@@ -124,7 +124,7 @@
                     <div class="row">
                         <div class="col-xl-12">
                             <div class="main-slider__content">
-                                <p class="main-slider__sub-title">Music fastival</p>
+                                <p class="main-slider__sub-title">Kings Dance Studio: Where Passion Meets Movement!</p>
                                 <h2 class="main-slider__title">Variety of Dance <br> <span>Styles</span>
                                 </h2>
                                 <p class="main-slider__text">From ballet and jazz to hip-hop and contemporary, Kings Dance Studio offers a diverse range of <br>dance styles to cater to different interests and preferences. Explore new genres, challenge <br> yourself creatively, and discover the joy of expression through movement.</p>
@@ -146,8 +146,8 @@
                                         </div>
                                     </li>
                                 </ul> -->
-                                <div class="main-slider__btn-box">
-                                    <a href="contact.html" class="main-slider__btn thm-btn">Purchase Ticket
+                                <div class="main-slider__btn-box pt-4">
+                                    <a href="contact.html" class="main-slider__btn thm-btn">Book Us Live
                                         <span class="icon-arrow-right"></span> </a>
                                 </div>
                             </div>
@@ -166,7 +166,7 @@
                     <div class="row">
                         <div class="col-xl-12">
                             <div class="main-slider__content">
-                                <p class="main-slider__sub-title">Music fastival</p>
+                                <p class="main-slider__sub-title">Kings Dance Studio: Where Passion Meets Movement!</p>
                                 <h2 class="main-slider__title">Performance <br><span>Opportunities </span>
                                 </h2>
                                 <p class="main-slider__text">Showcase your talent and passion on stage through our annual recitals, competitions, <br> and showcases. Gain valuable performance experience, build confidence, and celebrate <br> your hard work and dedication alongside your peers and instructors.</p>
@@ -188,8 +188,8 @@
                                         </div>
                                     </li>
                                 </ul> -->
-                                <div class="main-slider__btn-box">
-                                    <a href="contact.html" class="main-slider__btn thm-btn">Purchase Ticket
+                                <div class="main-slider__btn-box pt-4">
+                                    <a href="contact.html" class="main-slider__btn thm-btn">Book Us Live
                                         <span class="icon-arrow-right"></span> </a>
                                 </div>
                             </div>
@@ -208,7 +208,7 @@
                     <div class="row">
                         <div class="col-xl-12">
                             <div class="main-slider__content">
-                                <p class="main-slider__sub-title">Music fastival</p>
+                                <p class="main-slider__sub-title">Kings Dance Studio: Where Passion Meets Movement!</p>
                                 <h2 class="main-slider__title">Variety of Dance <br> <span>Styles</span>
                                 </h2>
                                 <p class="main-slider__text">From ballet and jazz to hip-hop and contemporary, Kings Dance Studio offers a diverse range of <br>dance styles to cater to different interests and preferences. Explore new genres, challenge <br> yourself creatively, and discover the joy of expression through movement.</p>
@@ -230,8 +230,8 @@
                                         </div>
                                     </li>
                                 </ul> -->
-                                <div class="main-slider__btn-box">
-                                    <a href="contact.html" class="main-slider__btn thm-btn">Purchase Ticket
+                                <div class="main-slider__btn-box pt-4">
+                                    <a href="contact.html" class="main-slider__btn thm-btn">Book Us Live
                                         <span class="icon-arrow-right"></span> </a>
                                 </div>
                             </div>
@@ -561,7 +561,7 @@
 </section>
 <!--Testimonial One End-->
 <!--Video One Start-->
-<section class="video-one">
+<section class="video-one margin-bottom">
     <div class="container">
         <div class="video-one__inner wow fadeInUp" data-wow-delay="300ms">
             <div class="video-one__img">
