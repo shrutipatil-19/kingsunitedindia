@@ -5,15 +5,15 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    @include('partial.headLinks')
+    @include('partial.links.headLinks')
 </head>
 
 <body class="body-bg-color-1">
     <div class="page-wrapper">
-        @include('partial.header')
+        @include('partial.componants.header')
         @yield('content')
-        @include('partial.footer')
-        @include('partial.scriptLink')
+        @include('partial.componants.footer')
+        @include('partial.links.scriptLink')
     </div>
 </body>
 
