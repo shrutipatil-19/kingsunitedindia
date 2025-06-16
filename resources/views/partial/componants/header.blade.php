@@ -4,7 +4,7 @@
             <div class="main-menu__wrapper-inner">
                 <div class="main-menu__left">
                     <div class="main-menu__logo">
-                        <a href="#"><img src="https://placehold.co/200x80" alt="" class="w-100"></a>
+                        <a href="#"><img src="{{ asset('assets/images/kings img/logo.png') }}" alt="" class="w-25"></a>
                     </div>
                 </div>
                 <div class="main-menu__main-menu-box">
@@ -46,14 +46,16 @@
                             </ul>
                         </li>
                           <li class="dropdown">
-                            <a href="">Kings Dance Studio</a>
+                            <a href="#">Kings Dance Studio</a>
                             <ul>
                                 <li class="dropdown">
                                     <a href="#">Courses</a>
                                     <ul>
-                                        <li><a href="#">Lorum Ipsum</a></li>
-                                        <li><a href="#">Lorum Ipsum</a></li>
-                                        <li><a href="#">Lorum Ipsum</a></li>
+                                        <li><a href="#">Kings Golden Pass -  One Year Unlimited Access</a></li>
+                                        <li><a href="#">Professional Training Courses</a></li>
+                                        <li><a href="#">Intensive  Training Courses</a></li>
+                                        <li><a href="#">Regular Classes</a></li>
+                                        <li><a href="#">Personal/Reality show Training</a></li>
                                     </ul>
                                 </li>
                                 <li><a href="#">Creator Space</a></li>
@@ -61,7 +63,7 @@
                             </ul>
                         </li>
                         <li class="dropdown">
-                            <a href="">Book Us Live</a>
+                            <a href="#">Book Us Live</a>
                             <ul>
                                 <li><a href="#">Book Us For Live Events</a></li>
                             </ul>
