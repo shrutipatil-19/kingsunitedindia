@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     @include('partial.links.headLinks')
+    @stack('style')
 </head>
 
 <body class="body-bg-color-1">
