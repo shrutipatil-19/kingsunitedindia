@@ -48,11 +48,9 @@
                         <div class="col-xl-12">
                             <div class="main-slider__content">
                                 <p class="main-slider__sub-title">Music fastival</p>
-                                <h2 class="main-slider__title">Discover a World <br> <span>of Celebration</span>
+                                <h2 class="main-slider__title">State-of-the-Art <br> <span>Facilities</span>
                                 </h2>
-                                <p class="main-slider__text">As an AI language model, I don't have personal
-                                    opinions or points of view. However, I <br> can tell you that design is a
-                                    multifaceted field that enco various</p>
+                                <p class="main-slider__text">Our purpose-built dance studio is equipped with top-notch amenities and <br> a spacious dance floor to enhance your training experience. Experience the thrill <br> of dancing in a professional setting that is designed to inspire and elevate your <br> performance.</p>
                                 <ul class="list-unstyled main-slider__address">
                                     <li>
                                         <div class="icon">
@@ -93,11 +91,9 @@
                         <div class="col-xl-12">
                             <div class="main-slider__content">
                                 <p class="main-slider__sub-title">Music fastival</p>
-                                <h2 class="main-slider__title">Discover a World <br> <span>of Celebration</span>
+                                <h2 class="main-slider__title">Expert <span>Instruction</span>
                                 </h2>
-                                <p class="main-slider__text">As an AI language model, I don't have personal
-                                    opinions or points of view. However, I <br> can tell you that design is a
-                                    multifaceted field that enco various</p>
+                                <p class="main-slider__text">Our team of experienced dance instructors are dedicated to helping students of all levels achieve <br>their dance goals. Whether you're a beginner looking to learn the basics or an experienced dancer <br>aiming to refine your skills, our instructors are here to guide and support you every step of the way.</p>
                                 <ul class="list-unstyled main-slider__address">
                                     <li>
                                         <div class="icon">
@@ -138,11 +134,93 @@
                         <div class="col-xl-12">
                             <div class="main-slider__content">
                                 <p class="main-slider__sub-title">Music fastival</p>
-                                <h2 class="main-slider__title">Discover a World <br> <span>of Celebration</span>
+                                <h2 class="main-slider__title">Variety of Dance <br> <span>Styles</span>
                                 </h2>
-                                <p class="main-slider__text">As an AI language model, I don't have personal
-                                    opinions or points of view. However, I <br> can tell you that design is a
-                                    multifaceted field that enco various</p>
+                                <p class="main-slider__text">From ballet and jazz to hip-hop and contemporary, Kings Dance Studio offers a diverse range of <br>dance styles to cater to different interests and preferences. Explore new genres, challenge <br> yourself creatively, and discover the joy of expression through movement.</p>
+                                <ul class="list-unstyled main-slider__address">
+                                    <li>
+                                        <div class="icon">
+                                            <span class="icon-pin"></span>
+                                        </div>
+                                        <div class="text">
+                                            <p>Mirpur 01 Road N 12 Dhaka Bangladesh</p>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div class="icon">
+                                            <span class="icon-clock"></span>
+                                        </div>
+                                        <div class="text">
+                                            <p>10 Am To 10 Pm 20 April 2024</p>
+                                        </div>
+                                    </li>
+                                </ul>
+                                <div class="main-slider__btn-box">
+                                    <a href="contact.html" class="main-slider__btn thm-btn">Purchase Ticket
+                                        <span class="icon-arrow-right"></span> </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+             <div class="swiper-slide">
+                <div class="main-slider__img">
+                    <img src="assets/images/resources/main-slider-img-1-3.jpg" alt="">
+                </div>
+                <div class="main-slider__shpae-2">
+                    <img src="assets/images/shapes/main-slider-shape-2.png" alt="">
+                </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xl-12">
+                            <div class="main-slider__content">
+                                <p class="main-slider__sub-title">Music fastival</p>
+                                <h2 class="main-slider__title">Performance <br><span>Opportunities </span>
+                                </h2>
+                                <p class="main-slider__text">Showcase your talent and passion on stage through our annual recitals, competitions, <br> and showcases. Gain valuable performance experience, build confidence, and celebrate <br> your hard work and dedication alongside your peers and instructors.</p>
+                                <ul class="list-unstyled main-slider__address">
+                                    <li>
+                                        <div class="icon">
+                                            <span class="icon-pin"></span>
+                                        </div>
+                                        <div class="text">
+                                            <p>Mirpur 01 Road N 12 Dhaka Bangladesh</p>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div class="icon">
+                                            <span class="icon-clock"></span>
+                                        </div>
+                                        <div class="text">
+                                            <p>10 Am To 10 Pm 20 April 2024</p>
+                                        </div>
+                                    </li>
+                                </ul>
+                                <div class="main-slider__btn-box">
+                                    <a href="contact.html" class="main-slider__btn thm-btn">Purchase Ticket
+                                        <span class="icon-arrow-right"></span> </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+             <div class="swiper-slide">
+                <div class="main-slider__img">
+                    <img src="assets/images/resources/main-slider-img-1-3.jpg" alt="">
+                </div>
+                <div class="main-slider__shpae-2">
+                    <img src="assets/images/shapes/main-slider-shape-2.png" alt="">
+                </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xl-12">
+                            <div class="main-slider__content">
+                                <p class="main-slider__sub-title">Music fastival</p>
+                                <h2 class="main-slider__title">Variety of Dance <br> <span>Styles</span>
+                                </h2>
+                                <p class="main-slider__text">From ballet and jazz to hip-hop and contemporary, Kings Dance Studio offers a diverse range of <br>dance styles to cater to different interests and preferences. Explore new genres, challenge <br> yourself creatively, and discover the joy of expression through movement.</p>
                                 <ul class="list-unstyled main-slider__address">
                                     <li>
                                         <div class="icon">
@@ -511,7 +589,7 @@
 <!-- Event Direction End -->
 
 <!-- Gallery One Start -->
-<section class="gallery-one">
+<section class="gallery-one d-none">
     <div class="container">
         <div class="section-title text-center">
             <div class="section-title__tagline-box">
@@ -661,7 +739,7 @@
 <!-- Gallery One End -->
 
 <!-- Schedule One Start -->
-<section class="schedule-one">
+<section class="schedule-one d-none">
     <div class="container">
         <div class="schedule-one__inner">
             <div class="section-title text-left">
@@ -1136,7 +1214,7 @@
 <!--Brand One End-->
 
 <!--Blog One Start-->
-<section class="blog-one">
+<section class="blog-one d-none">
     <div class="container">
         <div class="blog-one__top">
             <div class="section-title text-left">
