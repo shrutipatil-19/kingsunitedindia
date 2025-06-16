@@ -280,7 +280,8 @@ ul {
   height: 150%;
   border-bottom-left-radius: 50%;
   border-bottom-right-radius: 50%;
-  background: linear-gradient(90deg, #4A0AB4 0%, #B20D5D 100%);
+  /* background: linear-gradient(90deg, #4A0AB4 0%, #B20D5D 100%); */
+  background: linear-gradient(90deg, #de8a38 0%, #B20D5D 100%);
   transition-duration: 700ms;
   transition-timing-function: cubic-bezier(0.52, 1.64, 0.37, 0.66);
   z-index: -1;
@@ -3851,7 +3852,7 @@ ul {
 .site-footer__middle {
   position: relative;
   display: block;
-  padding: 98px 0px 112px;
+  /* padding: 98px 0px 112px; */
 }
 
 .site-footer__middle-inner {
@@ -3950,7 +3951,8 @@ ul {
 }
 
 .footer-widget__link-list li a:hover {
-  color: rgba(var(--eventflow-base-rgb), 1);
+  /* color: rgba(var(--eventflow-base-rgb), 1); */
+  color: #de9638;
 }
 
 .footer-widget__our-company {
@@ -3980,6 +3982,7 @@ ul {
   align-items: center;
   flex-wrap: wrap;
   gap: 10px;
+  /* align-items: start; */
 }
 
 .footer-widget__contact-list li+li {
