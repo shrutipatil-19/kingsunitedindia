@@ -71,15 +71,10 @@
             </div>
 
             <div class="swiper-slide">
-                <div class="main-slider__img">
-                    <img src="assets/images/resources/main-slider-img-1-2.jpg" alt="">
-                </div>
-                <div class="main-slider__shpae-2">
-                    <img src="assets/images/shapes/main-slider-shape-2.png" alt="">
-                </div>
+               
                 <div class="container">
                     <div class="row">
-                        <div class="col-xl-12">
+                        <div class="col-xl-6">
                             <div class="main-slider__content">
                                 <p class="main-slider__sub-title">Kings Dance Studio: Where Passion Meets Movement!</p>
                                 <h2 class="main-slider__title">Expert <span>Instruction</span>
@@ -109,20 +104,24 @@
                                 </div>
                             </div>
                         </div>
+                        <div class="col-xl-6">
+                             <div class="col-xl-6">
+                            <div class="main-slider__img">
+                                <img src="{{ asset('assets/images/kings img/banner2.jpg') }}" alt="" class="w-100">
+                            </div>
+                            <div class="main-slider__shpae-2">
+                                <img src="assets/images/shapes/main-slider-shape-2.png" alt="">
+                            </div>
+                        </div>
+                        </div>
                     </div>
                 </div>
             </div>
 
             <div class="swiper-slide">
-                <div class="main-slider__img">
-                    <img src="assets/images/resources/main-slider-img-1-3.jpg" alt="">
-                </div>
-                <div class="main-slider__shpae-2">
-                    <img src="assets/images/shapes/main-slider-shape-2.png" alt="">
-                </div>
                 <div class="container">
                     <div class="row">
-                        <div class="col-xl-12">
+                        <div class="col-xl-6">
                             <div class="main-slider__content">
                                 <p class="main-slider__sub-title">Kings Dance Studio: Where Passion Meets Movement!</p>
                                 <h2 class="main-slider__title">Variety of Dance <br> <span>Styles</span>
@@ -152,19 +151,21 @@
                                 </div>
                             </div>
                         </div>
+                         <div class="col-xl-6">
+                            <div class="main-slider__img">
+                                <img src="{{ asset('assets/images/kings img/banner3.jpg') }}" alt="" class="w-100">
+                            </div>
+                            <div class="main-slider__shpae-2">
+                                <img src="assets/images/shapes/main-slider-shape-2.png" alt="">
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
             <div class="swiper-slide">
-                <div class="main-slider__img">
-                    <img src="assets/images/resources/main-slider-img-1-3.jpg" alt="">
-                </div>
-                <div class="main-slider__shpae-2">
-                    <img src="assets/images/shapes/main-slider-shape-2.png" alt="">
-                </div>
                 <div class="container">
                     <div class="row">
-                        <div class="col-xl-12">
+                        <div class="col-xl-6">
                             <div class="main-slider__content">
                                 <p class="main-slider__sub-title">Kings Dance Studio: Where Passion Meets Movement!</p>
                                 <h2 class="main-slider__title">Performance <br><span>Opportunities </span>
@@ -194,10 +195,18 @@
                                 </div>
                             </div>
                         </div>
+                         <div class="col-xl-6">
+                            <div class="main-slider__img">
+                                <img src="{{ asset('assets/images/kings img/banner4.jpg') }}" alt="" class="w-100">
+                            </div>
+                            <div class="main-slider__shpae-2">
+                                <img src="assets/images/shapes/main-slider-shape-2.png" alt="">
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
-            <div class="swiper-slide">
+            <!-- <div class="swiper-slide">
                 <div class="main-slider__img">
                     <img src="assets/images/resources/main-slider-img-1-3.jpg" alt="">
                 </div>
@@ -212,24 +221,7 @@
                                 <h2 class="main-slider__title">Variety of Dance <br> <span>Styles</span>
                                 </h2>
                                 <p class="main-slider__text">From ballet and jazz to hip-hop and contemporary, Kings Dance Studio offers a diverse range of <br>dance styles to cater to different interests and preferences. Explore new genres, challenge <br> yourself creatively, and discover the joy of expression through movement.</p>
-                                <!-- <ul class="list-unstyled main-slider__address">
-                                    <li>
-                                        <div class="icon">
-                                            <span class="icon-pin"></span>
-                                        </div>
-                                        <div class="text">
-                                            <p>Mirpur 01 Road N 12 Dhaka Bangladesh</p>
-                                        </div>
-                                    </li>
-                                    <li>
-                                        <div class="icon">
-                                            <span class="icon-clock"></span>
-                                        </div>
-                                        <div class="text">
-                                            <p>10 Am To 10 Pm 20 April 2024</p>
-                                        </div>
-                                    </li>
-                                </ul> -->
+                                
                                 <div class="main-slider__btn-box pt-4">
                                     <a href="contact.html" class="main-slider__btn thm-btn">Book Us Live
                                         <span class="icon-arrow-right"></span> </a>
@@ -238,7 +230,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> -->
         </div>
         <div class="swiper-pagination" id="main-slider-pagination"></div>
         <!-- If we need navigation buttons -->
