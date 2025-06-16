@@ -4,8 +4,21 @@
         <div class="sticky-header__content"></div><!-- /.sticky-header__content -->
     </div><!-- /.stricky-header -->
 
+    <section>
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-12">
+                    <video autoplay playsinline loop muted poster="{{ asset('assets/images/kings img/about1.jpg') }}" class="w-100">
+                        <source src="{{ asset('assets/images/kings img/KINGS_UNITED.mp4') }}" type="video/mp4">
+                        <source src="{{ asset('assets/images/kings img/KINGS_UNITED.mp4') }}" type="video/ogg">
+                        Your browser does not support the video tag.
+                      </video>
+                </div>
+            </div>
+        </div>
+    </section>
     <!--Main Slider Start-->
-    <section class="main-slider">
+    <section class="main-slider d-none">
         <div class="swiper-container thm-swiper__slider"
             data-swiper-options='{"slidesPerView": 1, "loop": true,
         "effect": "fade",
