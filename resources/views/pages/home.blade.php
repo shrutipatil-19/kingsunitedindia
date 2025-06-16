@@ -25,7 +25,7 @@
         <div class="swiper-wrapper">
 
             <div class="swiper-slide">
-                
+
                 <div class="container">
                     <div class="row">
                         <div class="col-xl-6">
@@ -34,7 +34,7 @@
                                 <h2 class="main-slider__title">State-of-the-Art <br> <span>Facilities</span>
                                 </h2>
                                 <p class="main-slider__text">Our purpose-built dance studio is equipped with top-notch amenities and <br> a spacious dance floor to enhance your training experience. Experience the thrill <br> of dancing in a professional setting that is designed to inspire and elevate your <br> performance.</p>
-                                <ul class="list-unstyled main-slider__address">
+                                <!-- <ul class="list-unstyled main-slider__address">
                                     <li>
                                         <div class="icon">
                                             <span class="icon-pin"></span>
@@ -51,7 +51,7 @@
                                             <p>10 Am To 10 Pm 20 April 2024</p>
                                         </div>
                                     </li>
-                                </ul>
+                                </ul> -->
                                 <div class="main-slider__btn-box">
                                     <a href="contact.html" class="main-slider__btn thm-btn">Purchase Ticket
                                         <span class="icon-arrow-right"></span> </a>
@@ -85,7 +85,7 @@
                                 <h2 class="main-slider__title">Expert <span>Instruction</span>
                                 </h2>
                                 <p class="main-slider__text">Our team of experienced dance instructors are dedicated to helping students of all levels achieve <br>their dance goals. Whether you're a beginner looking to learn the basics or an experienced dancer <br>aiming to refine your skills, our instructors are here to guide and support you every step of the way.</p>
-                                <ul class="list-unstyled main-slider__address">
+                                <!-- <ul class="list-unstyled main-slider__address">
                                     <li>
                                         <div class="icon">
                                             <span class="icon-pin"></span>
@@ -102,7 +102,7 @@
                                             <p>10 Am To 10 Pm 20 April 2024</p>
                                         </div>
                                     </li>
-                                </ul>
+                                </ul> -->
                                 <div class="main-slider__btn-box">
                                     <a href="contact.html" class="main-slider__btn thm-btn">Purchase Ticket
                                         <span class="icon-arrow-right"></span> </a>
@@ -128,7 +128,7 @@
                                 <h2 class="main-slider__title">Variety of Dance <br> <span>Styles</span>
                                 </h2>
                                 <p class="main-slider__text">From ballet and jazz to hip-hop and contemporary, Kings Dance Studio offers a diverse range of <br>dance styles to cater to different interests and preferences. Explore new genres, challenge <br> yourself creatively, and discover the joy of expression through movement.</p>
-                                <ul class="list-unstyled main-slider__address">
+                                <!-- <ul class="list-unstyled main-slider__address">
                                     <li>
                                         <div class="icon">
                                             <span class="icon-pin"></span>
@@ -145,7 +145,7 @@
                                             <p>10 Am To 10 Pm 20 April 2024</p>
                                         </div>
                                     </li>
-                                </ul>
+                                </ul> -->
                                 <div class="main-slider__btn-box">
                                     <a href="contact.html" class="main-slider__btn thm-btn">Purchase Ticket
                                         <span class="icon-arrow-right"></span> </a>
@@ -170,7 +170,7 @@
                                 <h2 class="main-slider__title">Performance <br><span>Opportunities </span>
                                 </h2>
                                 <p class="main-slider__text">Showcase your talent and passion on stage through our annual recitals, competitions, <br> and showcases. Gain valuable performance experience, build confidence, and celebrate <br> your hard work and dedication alongside your peers and instructors.</p>
-                                <ul class="list-unstyled main-slider__address">
+                                <!-- <ul class="list-unstyled main-slider__address">
                                     <li>
                                         <div class="icon">
                                             <span class="icon-pin"></span>
@@ -187,7 +187,7 @@
                                             <p>10 Am To 10 Pm 20 April 2024</p>
                                         </div>
                                     </li>
-                                </ul>
+                                </ul> -->
                                 <div class="main-slider__btn-box">
                                     <a href="contact.html" class="main-slider__btn thm-btn">Purchase Ticket
                                         <span class="icon-arrow-right"></span> </a>
@@ -212,7 +212,7 @@
                                 <h2 class="main-slider__title">Variety of Dance <br> <span>Styles</span>
                                 </h2>
                                 <p class="main-slider__text">From ballet and jazz to hip-hop and contemporary, Kings Dance Studio offers a diverse range of <br>dance styles to cater to different interests and preferences. Explore new genres, challenge <br> yourself creatively, and discover the joy of expression through movement.</p>
-                                <ul class="list-unstyled main-slider__address">
+                                <!-- <ul class="list-unstyled main-slider__address">
                                     <li>
                                         <div class="icon">
                                             <span class="icon-pin"></span>
@@ -229,7 +229,7 @@
                                             <p>10 Am To 10 Pm 20 April 2024</p>
                                         </div>
                                     </li>
-                                </ul>
+                                </ul> -->
                                 <div class="main-slider__btn-box">
                                     <a href="contact.html" class="main-slider__btn thm-btn">Purchase Ticket
                                         <span class="icon-arrow-right"></span> </a>
@@ -239,17 +239,12 @@
                     </div>
                 </div>
             </div>
-
-
         </div>
-
         <div class="swiper-pagination" id="main-slider-pagination"></div>
         <!-- If we need navigation buttons -->
-
     </div>
 </section>
 <!--Main Slider End-->
-
 
 <!--Services One Start-->
 <section class="services-one">
@@ -513,7 +508,7 @@
                                     <span class="icon-star clr-start"></span>
                                 </div>
                             </div>
-                            <p class="testimonial-one__text">The kings dance studio is very good choice for all  beginner dancers . The management is well trained and all ways ready to help  all the students . Teachers have excellent teaching experience all the mam and sir are very good  in on  their own styles.</p>
+                            <p class="testimonial-one__text">The kings dance studio is very good choice for all beginner dancers . The management is well trained and all ways ready to help all the students . Teachers have excellent teaching experience all the mam and sir are very good in on their own styles.</p>
                             <div class="testimonial-one__quote">
                                 <span class="icon-quote"></span>
                             </div>
@@ -565,7 +560,25 @@
     </div>
 </section>
 <!--Testimonial One End-->
-
+<!--Video One Start-->
+<section class="video-one">
+    <div class="container">
+        <div class="video-one__inner wow fadeInUp" data-wow-delay="300ms">
+            <div class="video-one__img">
+                <img src="{{ asset('assets/images/kings img/video_banner1.jpg') }}" alt="">
+                <div class="video-one__video-link">
+                    <a href="https://www.youtube.com/watch?v=y4jv5bk8ato" class="video-popup">
+                        <div class="video-one__video-icon">
+                            <span class="icon-awesome-play"></span>
+                            <i class="ripple"></i>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!--Video One End-->
 <!-- Event One Start -->
 <section class="event-one d-none">
     <div class="container">
@@ -605,7 +618,7 @@
                 </li>
             </ul>
             <div class="event-one__img-box">
-                <img src="assets/images/resources/event-one-img-1.jpg" alt="">
+                <img src="{{ asset('assets/images/kings img/about22.jpg') }}" alt="">
             </div>
         </div>
     </div>
@@ -651,7 +664,7 @@
             <div class="col-xl-6">
                 <div class="buy-ticket__right wow fadeInRight" data-wow-delay="300ms">
                     <div class="buy-ticket__img">
-                        <img src="assets/images/resources/buy-ticket-img.jpg" alt="">
+                        <img src="{{ asset('assets/images/kings img/about22.jpg') }}" alt="">
                     </div>
                 </div>
             </div>
@@ -675,16 +688,16 @@
                 <div class="team-one__single">
                     <div class="team-one__img-box">
                         <div class="team-one__img">
-                            <img src="assets/images/team/team-1-1.jpg" alt="">
+                            <img src="{{ asset('assets/images/kings img/course1.jpg') }}" alt="">
                             <div class="team-one__content">
-                                <h4 class="team-one__name"><a href="#">KINGS GOLDEN PASS - ONE YEAR UNLIMITED ACCESS</a></h4>
+                                <h4 class="team-one__name"><a href="#">Kings Golden Pass -One Year unlimited Access</a></h4>
                                 <!-- <p class="team-one__sub-title">Speaker</p> -->
                             </div>
                             <div class="team-one__content-hover">
-                                <h4 class="team-one__name-hover"><a href="#">KINGS GOLDEN PASS - ONE YEAR UNLIMITED ACCESS</a>
+                                <h4 class="team-one__name-hover"><a href="#">Kings Golden Pass -One Year unlimited Access</a>
                                 </h4>
                                 <!-- <p class="team-one__sub-title-hover">Speaker</p> -->
-                                <p class="team-one__text-hover">Enjoy a year of unlimited dance training at Kings Dance Studio! Access all courses and workshops, compete in in-house events, and customize your schedule. Explore styles like Hip-hop, Ballet, Contemporary, and more. Benefit from career opportunities and learn from top-notch instructors in a vibrant dance community. Elevate your dance journey today!</p>
+                                <p class="team-one__text-hover">Enjoy a year of unlimited dance training at Kings Dance Studio! </p>
                             </div>
                         </div>
                     </div>
@@ -696,16 +709,16 @@
                 <div class="team-one__single">
                     <div class="team-one__img-box">
                         <div class="team-one__img">
-                            <img src="assets/images/team/team-1-2.jpg" alt="">
+                            <img src="{{ asset('assets/images/kings img/course2.jpg') }}" alt="">
                             <div class="team-one__content">
-                                <h4 class="team-one__name"><a href="#">PROFESSIONAL TRAINING PROGRAM</a></h4>
+                                <h4 class="team-one__name"><a href="#">professional Training Program</a></h4>
                                 <!-- <p class="team-one__sub-title">Singer</p> -->
                             </div>
                             <div class="team-one__content-hover">
-                                <h4 class="team-one__name-hover"><a href="#">PROFESSIONAL TRAINING PROGRAM</a>
+                                <h4 class="team-one__name-hover"><a href="#">professional Training Program</a>
                                 </h4>
                                 <!-- <p class="team-one__sub-title-hover">Singer</p> -->
-                                <p class="team-one__text-hover">Discover the key to unlocking your dance potential with  professional training program. Elevate your skills under expert guidance, tailored to enhance technique and artistry. Our program ensures you receive certification, stay updated with real-time knowledge, and participate in exclusive masterclasses with renowned dancers and choreographers. Join us to cultivate your passion and achieve dance excellence. </p>
+                                <p class="team-one__text-hover">Discover the key to unlocking your dance potential with professional training program.</p>
                             </div>
                         </div>
                     </div>
@@ -717,16 +730,16 @@
                 <div class="team-one__single">
                     <div class="team-one__img-box">
                         <div class="team-one__img">
-                            <img src="assets/images/team/team-1-3.jpg" alt="">
+                            <img src="{{ asset('assets/images/kings img/course3.jpg') }}" alt="">
                             <div class="team-one__content">
-                                <h4 class="team-one__name"><a href="team-details.html">INTENSIVE TRAINING PROGRAM</a></h4>
+                                <h4 class="team-one__name"><a href="#">Intensive Training Program</a></h4>
                                 <!-- <p class="team-one__sub-title">Content Creator</p> -->
                             </div>
                             <div class="team-one__content-hover">
-                                <h4 class="team-one__name-hover"><a href="team-details.html">INTENSIVE TRAINING PROGRAM</a>
+                                <h4 class="team-one__name-hover"><a href="#">Intensive Training Program</a>
                                 </h4>
                                 <!-- <p class="team-one__sub-title-hover">Content Creator</p> -->
-                                <p class="team-one__text-hover">Join our Intensive Training Program at Kings Dance Studio, tailored for professionals looking to master a particular dance style. Refine your technique, enhance artistry, and receive personalized coaching in a focused, transformative environment. Elevate your dance skills with us today.</p>
+                                <p class="team-one__text-hover">Join our Intensive Training Program at Kings Dance Studio.</p>
                             </div>
                         </div>
                     </div>
@@ -1342,7 +1355,7 @@
     <div class="container">
         <div class="brand-one__inner">
             <div class="thm-swiper__slider swiper-container" data-swiper-options='{"spaceBetween": 100,
-            "slidesPerView": 5,
+            "slidesPerView": 4,
             "loop": true,
             "navigation": {
                 "nextEl": "#brand-one__swiper-button-next",
@@ -1369,67 +1382,59 @@
                 "991": {
                     "spaceBetween": 50,
                     "slidesPerView": 4
-                },
-                "1200": {
-                    "spaceBetween": 100,
-                    "slidesPerView": 5
-                },
-                "1320": {
-                    "spaceBetween": 100,
-                    "slidesPerView": 5
                 }
             }}'>
                 <div class="swiper-wrapper">
                     <div class="swiper-slide">
                         <div class="swiper-slide__img">
-                            <a href="#"><img src="assets/images/brand/brand-1-1.png" alt=""></a>
+                            <a href="#"><img src="{{ asset('assets/images/kings img/intel.webp') }}" alt=""></a>
                         </div>
                     </div><!-- /.swiper-slide -->
+                    <div class="swiper-slide">
+                        <div class="swiper-slide__img">
+                            <a href="#"><img src="{{ asset('assets/images/kings img/ipl_logo.jpg') }}" alt=""></a>
+                        </div>
+                    </div><!-- /.swiper-slide -->
+                    <div class="swiper-slide">
+                        <div class="swiper-slide__img">
+                            <a href="#"><img src="{{ asset('assets/images/kings img/microsoft.png') }}" alt=""></a>
+                        </div>
+                    </div><!-- /.swiper-slide -->
+                    <div class="swiper-slide">
+                        <div class="swiper-slide__img">
+                            <a href="#"><img src="{{ asset('assets/images/kings img/red_bull.jpg') }}" alt=""></a>
+                        </div>
+                    </div><!-- /.swiper-slide -->
+                    <!-- <div class="swiper-slide">
+                        <div class="swiper-slide__img">
+                            <a href="#"><img src="assets/images/brand/brand-1-5.png" alt=""></a>
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="swiper-slide__img">
+                            <a href="#"><img src="assets/images/brand/brand-1-1.png" alt=""></a>
+                        </div>
+                    </div>
                     <div class="swiper-slide">
                         <div class="swiper-slide__img">
                             <a href="#"><img src="assets/images/brand/brand-1-2.png" alt=""></a>
                         </div>
-                    </div><!-- /.swiper-slide -->
+                    </div>
                     <div class="swiper-slide">
                         <div class="swiper-slide__img">
                             <a href="#"><img src="assets/images/brand/brand-1-3.png" alt=""></a>
                         </div>
-                    </div><!-- /.swiper-slide -->
+                    </div>
                     <div class="swiper-slide">
                         <div class="swiper-slide__img">
                             <a href="#"><img src="assets/images/brand/brand-1-4.png" alt=""></a>
                         </div>
-                    </div><!-- /.swiper-slide -->
+                    </div>
                     <div class="swiper-slide">
                         <div class="swiper-slide__img">
                             <a href="#"><img src="assets/images/brand/brand-1-5.png" alt=""></a>
                         </div>
-                    </div><!-- /.swiper-slide -->
-                    <div class="swiper-slide">
-                        <div class="swiper-slide__img">
-                            <a href="#"><img src="assets/images/brand/brand-1-1.png" alt=""></a>
-                        </div>
-                    </div><!-- /.swiper-slide -->
-                    <div class="swiper-slide">
-                        <div class="swiper-slide__img">
-                            <a href="#"><img src="assets/images/brand/brand-1-2.png" alt=""></a>
-                        </div>
-                    </div><!-- /.swiper-slide -->
-                    <div class="swiper-slide">
-                        <div class="swiper-slide__img">
-                            <a href="#"><img src="assets/images/brand/brand-1-3.png" alt=""></a>
-                        </div>
-                    </div><!-- /.swiper-slide -->
-                    <div class="swiper-slide">
-                        <div class="swiper-slide__img">
-                            <a href="#"><img src="assets/images/brand/brand-1-4.png" alt=""></a>
-                        </div>
-                    </div><!-- /.swiper-slide -->
-                    <div class="swiper-slide">
-                        <div class="swiper-slide__img">
-                            <a href="#"><img src="assets/images/brand/brand-1-5.png" alt=""></a>
-                        </div>
-                    </div><!-- /.swiper-slide -->
+                    </div> -->
                 </div>
             </div>
         </div>
