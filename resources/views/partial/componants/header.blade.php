@@ -4,7 +4,7 @@
             <div class="main-menu__wrapper-inner">
                 <div class="main-menu__left">
                     <div class="main-menu__logo">
-                        <a href="#"><img src="{{ asset('assets/images/kings img/logo.png') }}" alt="" class="w-25"></a>
+                        <a href="#"><img src="{{ asset('assets/images/kings img/logo.png') }}" alt="" class="w-100"></a>
                     </div>
                 </div>
                 <div class="main-menu__main-menu-box">
