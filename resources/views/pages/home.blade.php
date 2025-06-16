@@ -25,27 +25,10 @@
         <div class="swiper-wrapper">
 
             <div class="swiper-slide">
-                <div class="main-slider__img">
-                    <img src="{{ asset('assets/images/kings img/about1.jpg') }}" alt="" class="w-100">
-                </div>
-                <!-- <div class="main-slider__shpae-1">
-                    <img src="assets/images/shapes/main-slider-shape-1.png" alt="">
-                </div> -->
-                <div class="main-slider__shpae-2">
-                    <img src="assets/images/shapes/main-slider-shape-2.png" alt="">
-                </div>
-                <!-- <div class="main-slider__start-1">
-                    <img src="assets/images/shapes/main-slider-star-1.png" alt="">
-                </div>
-                <div class="main-slider__start-2 zoominout">
-                    <img src="assets/images/shapes/main-slider-star-2.png" alt="">
-                </div>
-                <div class="main-slider__start-3">
-                    <img src="assets/images/shapes/main-slider-star-3.png" alt="">
-                </div> -->
+                
                 <div class="container">
                     <div class="row">
-                        <div class="col-xl-12">
+                        <div class="col-xl-6">
                             <div class="main-slider__content">
                                 <p class="main-slider__sub-title">Music fastival</p>
                                 <h2 class="main-slider__title">State-of-the-Art <br> <span>Facilities</span>
@@ -73,6 +56,14 @@
                                     <a href="contact.html" class="main-slider__btn thm-btn">Purchase Ticket
                                         <span class="icon-arrow-right"></span> </a>
                                 </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-6">
+                            <div class="main-slider__img">
+                                <img src="{{ asset('assets/images/kings img/about1.jpg') }}" alt="" class="w-100">
+                            </div>
+                            <div class="main-slider__shpae-2">
+                                <img src="assets/images/shapes/main-slider-shape-2.png" alt="">
                             </div>
                         </div>
                     </div>
