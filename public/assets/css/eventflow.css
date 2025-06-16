@@ -1545,9 +1545,9 @@ ul {
 }
 
 .main-slider__img {
-  position: absolute;
+  /* position: absolute; */
   top: 140px;
-  right: 350px;
+  /* right: 350px; */
   opacity: 0;
   -webkit-transform: perspective(400px) rotateY(0deg) translateX(400px);
   -ms-transform: perspective(400px) rotateY(0deg) translateX(400px);
@@ -1563,7 +1563,7 @@ ul {
 }
 
 .main-slider__img img {
-  width: auto;
+  /* width: auto; */
   border: 3px solid #41102B;
   border-radius: 20px;
 }
