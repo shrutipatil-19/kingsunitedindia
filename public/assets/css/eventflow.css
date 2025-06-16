@@ -2877,7 +2877,7 @@ ul {
 }
 
 .team-one__content {
-  position: absolute;
+  /* position: absolute; */
   bottom: 30px;
   left: 30px;
   right: 30px;
@@ -2900,7 +2900,7 @@ ul {
 .team-one__name {
   font-size: 24px;
   font-weight: 700;
-  line-height: 24px;
+  line-height: 30px;
   margin-bottom: 20px;
 }
 
@@ -3799,7 +3799,7 @@ ul {
 .site-footer {
   position: relative;
   display: block;
-  padding: 98px 0px 0px;
+  padding: 60px 0px 0px;
   z-index: 1;
 }
 
