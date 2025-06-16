@@ -26,7 +26,7 @@
 
             <div class="swiper-slide">
                 <div class="main-slider__img">
-                    <img src="assets/images/resources/main-slider-img-1-1.jpg" alt="">
+                    <img src="{{ asset('assets/images/kings img/about1.jpg') }}" alt="" class="w-100">
                 </div>
                 <!-- <div class="main-slider__shpae-1">
                     <img src="assets/images/shapes/main-slider-shape-1.png" alt="">
