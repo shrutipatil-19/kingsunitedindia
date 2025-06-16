@@ -633,7 +633,7 @@
     </section>
     <!--Testimonial One End-->
     <!--Video One Start-->
-    <section class="video-one margin-bottom">
+    <section class="video-one">
         <div class="container">
             <div class="video-one__inner wow fadeInUp" data-wow-delay="300ms">
                 <div class="video-one__img">
@@ -706,7 +706,7 @@
                 <div class="section-title__tagline-box">
                     <span class="section-title__tagline">Our Courses</span>
                 </div>
-                <h2 class="section-title__title">our amaizing & lerned <br> event speakerss</h2>
+                <h2 class="section-title__title">our amaizing Courses</h2>
             </div>
             <div class="row">
                 <!-- Team One Single Start -->
