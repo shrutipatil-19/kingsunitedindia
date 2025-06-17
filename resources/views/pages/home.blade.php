@@ -731,7 +731,7 @@
         <div class="container">
             <div class="video-one__inner wow fadeInUp" data-wow-delay="300ms">
                 <div class="video-one__img">
-                    <img src="{{ asset('assets/images/kings img/video_banner1.jpg') }}" alt="">
+                    <img src="{{ asset('assets/images/kings img/video_banner1.jpg') }}" alt="" data-tilt data-tilt-max="10">
                     <div class="video-one__video-link">
                         <a href="https://www.youtube.com/watch?v=y4jv5bk8ato" class="video-popup">
                             <div class="video-one__video-icon">
@@ -797,7 +797,7 @@
 
         .ele3 {
             position: absolute;
-            top: 60%;
+            top: 0%;
             left: -8%;
             opacity: 0.6 !important;
         }
@@ -807,18 +807,34 @@
             height: 100%;
             object-fit: cover;
         }
+        .team-bg {
+            position: relative;
+            background-image: url('./public/assets/images/kings img/banner4.jpg');
+            background-repeat: no-repeat;
+            background-size: cover;
+            z-index: 0;
+        }
+        .team-bg::after{
+            content: '';
+            width: 100%;
+            height: 100%;
+            position: absolute;
+            background-color: #04000A;
+            top: 0;
+            left: 0;
+            opacity: 0.6;
+            z-index: -1;
+        }
     </style>
 
 
     <!-- Team One Start -->
     <section class="team-one">
-        <div class="ele3 d-none d-md-block" data-aos="fade-right" data-aos-duration="1000">
-            <img src="{{ asset('assets/images/kings img/lion_logo.png') }}" alt="">
-        </div>
+        <div class="team-bg">
         <div class="container">
             <div class="section-title text-center">
                 <div class="section-title__tagline-box">
-                    <span class="section-title__tagline">Our Courses</span>
+                    <span class="section-title__tagline mt-5">Our Courses</span>
                 </div>
                 <h2 class="section-title__title">our amaizing Courses</h2>
             </div>
@@ -893,12 +909,16 @@
                 <!-- Team One Single End -->
             </div>
         </div>
+    </div>
     </section>
     <!-- Team One End -->
 
     <!-- Event Direction Start -->
     <section class="event-direction mb-5">
         <div class="container">
+            <div class="ele3 d-none d-md-block" data-aos="fade-right" data-aos-duration="1000">
+                <img src="{{ asset('assets/images/kings img/lion_logo.png') }}" alt="">
+            </div>
             <div class="event-direction__inner">
                 <div class="row">
                     <div class="col-xl-7 wow fadeInLeft" data-wow-delay="100ms">

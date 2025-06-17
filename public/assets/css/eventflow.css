@@ -2593,6 +2593,10 @@ ul {
 .sliding-text__list li .sliding-text__title:hover {
   color: transparent;
   -webkit-text-stroke: 1px transparent;
+  background: linear-gradient(90deg, #de4038 0%, #dea738 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
 }
 
 .sliding-text__title:before {
@@ -5378,6 +5382,7 @@ ul {
   border-radius: 20px;
   padding: 40px 40px 40px;
   z-index: 1;
+  border: 2px solid #de7238;
 }
 
 .testimonial-one__client-info-and-review {
