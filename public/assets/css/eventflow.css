@@ -10299,3 +10299,15 @@ ul {
 /*--------------------------------------------------------------
 # End
 --------------------------------------------------------------*/
+.stagger-line span {
+  display: inline-block;
+  opacity: 1;
+  /* transform: scale(1); */
+  transition: all 0.4s ease;
+  transition-delay: var(--delay);
+}
+
+.stagger-line:hover span {
+  opacity: 0.6;
+  text-shadow: #de9638;
+}
