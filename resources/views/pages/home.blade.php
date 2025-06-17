@@ -760,11 +760,31 @@
         </div>
     </section>
     <!-- Event One End -->
+    <style>
+        .team-one {
+            position: relative;
+        }
 
+        .ele3 {
+            position: absolute;
+            top: 60%;
+            left: -8%;
+            opacity:0.6 !important;
+        }
+
+        .ele3 img {
+            width: calc(100% - 340px);
+            height: 100%;
+            object-fit: cover;
+        }
+    </style>
 
 
     <!-- Team One Start -->
     <section class="team-one">
+        <div class="ele3 d-none d-md-block" data-aos="fade-right" data-aos-duration="1000">
+            <img src="{{ asset('assets/images/kings img/lion_logo.png') }}" alt="">
+        </div>
         <div class="container">
             <div class="section-title text-center">
                 <div class="section-title__tagline-box">
