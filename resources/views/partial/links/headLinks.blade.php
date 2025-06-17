@@ -7,9 +7,10 @@
     <!-- fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link
+    {{-- <link
         href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap"
-        rel="stylesheet">
+        rel="stylesheet"> --}}
+        <link href="https://fonts.googleapis.com/css2?family=Marko+One&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap" rel="stylesheet">
 
 
@@ -28,6 +29,8 @@
     <link rel="stylesheet" href="{{ asset('assets/vendors/bootstrap-select/css/bootstrap-select.min.css') }}" />
     <link rel="stylesheet" href="{{ asset('assets/vendors/nice-select/nice-select.css') }}" />
     <link rel="stylesheet" href="{{ asset('assets/vendors/jquery-ui/jquery-ui.css') }}" />
+
+    
 
     <!-- template styles -->
     <link rel="stylesheet" href="{{ asset('assets/css/eventflow.css') }}" />

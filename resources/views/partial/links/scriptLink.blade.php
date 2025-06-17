@@ -17,6 +17,7 @@
 <script src="{{ asset('assets/vendors/countdown/countdown.min.js') }}"></script>
 <script src="{{ asset('assets/vendors/marque/marquee.min.js') }}"></script>
 <script src="{{ asset('assets/vendors/sidebar-content/jquery-sidebar-content.js') }}"></script>
-
+ <!-- Tilt.jquery -->
+ <script src="{{ asset('assets/js/tilt.jquery.min.js')}}"></script>
 <!-- template js -->
 <script src="{{ asset('assets/js/eventflow.js') }}"></script>
