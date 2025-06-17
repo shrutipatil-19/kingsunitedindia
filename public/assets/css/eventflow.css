@@ -17,9 +17,16 @@
 /*--------------------------------------------------------------
 # Common
 --------------------------------------------------------------*/
+
+@font-face {
+  font-family: "Brush king";
+  src: url('../font/brush_king/Brush\ King.otf');
+}
+
 :root {
   --eventflow-font: "DM Sans", sans-serif;
-  --eventflow-font-two: "Inter", sans-serif;
+  /* --eventflow-font-two: "Inter", sans-serif; */
+  --eventflow-font-two: "Marko One", serif;;
   --eventflow-gray: #7C7B7B;
   --eventflow-gray-rgb: 124, 123, 123;
   --eventflow-white: #ffffff;
@@ -2737,7 +2744,7 @@ ul {
 .buy-ticket {
   position: relative;
   display: block;
-  background-color: #0E0A17;
+  /* background-color: #0E0A17; */
   padding: 120px 0 120px;
   z-index: 1;
 }
