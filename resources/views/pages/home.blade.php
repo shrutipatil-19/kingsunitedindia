@@ -1,5 +1,9 @@
 @extends('layout.app')
 @section('content')
+<link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+
+
     <div class="stricky-header stricked-menu main-menu">
         <div class="sticky-header__content"></div><!-- /.sticky-header__content -->
     </div><!-- /.stricky-header -->
@@ -8,11 +12,12 @@
         <div class="container-fluid">
             <div class="row">
                 <div class="col-12">
-                    <video autoplay playsinline loop muted poster="{{ asset('assets/images/kings img/about1.jpg') }}" class="w-100">
+                    <video autoplay playsinline loop muted poster="{{ asset('assets/images/kings img/about1.jpg') }}"
+                        class="w-100">
                         <source src="{{ asset('assets/images/kings img/KINGS_UNITED.mp4') }}" type="video/mp4">
                         <source src="{{ asset('assets/images/kings img/KINGS_UNITED.mp4') }}" type="video/ogg">
                         Your browser does not support the video tag.
-                      </video>
+                    </video>
                 </div>
             </div>
         </div>
@@ -65,23 +70,23 @@
                                         Experience the thrill <br> of dancing in a professional setting that is designed to
                                         inspire and elevate your <br> performance.</p>
                                     <!-- <ul class="list-unstyled main-slider__address">
-                                                    <li>
-                                                        <div class="icon">
-                                                            <span class="icon-pin"></span>
-                                                        </div>
-                                                        <div class="text">
-                                                            <p>Mirpur 01 Road N 12 Dhaka Bangladesh</p>
-                                                        </div>
-                                                    </li>
-                                                    <li>
-                                                        <div class="icon">
-                                                            <span class="icon-clock"></span>
-                                                        </div>
-                                                        <div class="text">
-                                                            <p>10 Am To 10 Pm 20 April 2024</p>
-                                                        </div>
-                                                    </li>
-                                                </ul> -->
+                                                        <li>
+                                                            <div class="icon">
+                                                                <span class="icon-pin"></span>
+                                                            </div>
+                                                            <div class="text">
+                                                                <p>Mirpur 01 Road N 12 Dhaka Bangladesh</p>
+                                                            </div>
+                                                        </li>
+                                                        <li>
+                                                            <div class="icon">
+                                                                <span class="icon-clock"></span>
+                                                            </div>
+                                                            <div class="text">
+                                                                <p>10 Am To 10 Pm 20 April 2024</p>
+                                                            </div>
+                                                        </li>
+                                                    </ul> -->
                                     <div class="main-slider__btn-box pt-4">
                                         <a href="contact.html" class="main-slider__btn thm-btn">Book Us Live
                                             <span class="icon-arrow-right"></span> </a>
@@ -115,23 +120,23 @@
                                         your skills, our instructors are here to guide and support you every step of the
                                         way.</p>
                                     <!-- <ul class="list-unstyled main-slider__address">
-                                                    <li>
-                                                        <div class="icon">
-                                                            <span class="icon-pin"></span>
-                                                        </div>
-                                                        <div class="text">
-                                                            <p>Mirpur 01 Road N 12 Dhaka Bangladesh</p>
-                                                        </div>
-                                                    </li>
-                                                    <li>
-                                                        <div class="icon">
-                                                            <span class="icon-clock"></span>
-                                                        </div>
-                                                        <div class="text">
-                                                            <p>10 Am To 10 Pm 20 April 2024</p>
-                                                        </div>
-                                                    </li>
-                                                </ul> -->
+                                                        <li>
+                                                            <div class="icon">
+                                                                <span class="icon-pin"></span>
+                                                            </div>
+                                                            <div class="text">
+                                                                <p>Mirpur 01 Road N 12 Dhaka Bangladesh</p>
+                                                            </div>
+                                                        </li>
+                                                        <li>
+                                                            <div class="icon">
+                                                                <span class="icon-clock"></span>
+                                                            </div>
+                                                            <div class="text">
+                                                                <p>10 Am To 10 Pm 20 April 2024</p>
+                                                            </div>
+                                                        </li>
+                                                    </ul> -->
                                     <div class="main-slider__btn-box pt-4">
                                         <a href="#" class="main-slider__btn thm-btn">Book Us Live
                                             <span class="icon-arrow-right"></span> </a>
@@ -164,23 +169,23 @@
                                         interests and preferences. Explore new genres, challenge <br> yourself creatively,
                                         and discover the joy of expression through movement.</p>
                                     <!-- <ul class="list-unstyled main-slider__address">
-                                                    <li>
-                                                        <div class="icon">
-                                                            <span class="icon-pin"></span>
-                                                        </div>
-                                                        <div class="text">
-                                                            <p>Mirpur 01 Road N 12 Dhaka Bangladesh</p>
-                                                        </div>
-                                                    </li>
-                                                    <li>
-                                                        <div class="icon">
-                                                            <span class="icon-clock"></span>
-                                                        </div>
-                                                        <div class="text">
-                                                            <p>10 Am To 10 Pm 20 April 2024</p>
-                                                        </div>
-                                                    </li>
-                                                </ul> -->
+                                                        <li>
+                                                            <div class="icon">
+                                                                <span class="icon-pin"></span>
+                                                            </div>
+                                                            <div class="text">
+                                                                <p>Mirpur 01 Road N 12 Dhaka Bangladesh</p>
+                                                            </div>
+                                                        </li>
+                                                        <li>
+                                                            <div class="icon">
+                                                                <span class="icon-clock"></span>
+                                                            </div>
+                                                            <div class="text">
+                                                                <p>10 Am To 10 Pm 20 April 2024</p>
+                                                            </div>
+                                                        </li>
+                                                    </ul> -->
                                     <div class="main-slider__btn-box pt-4">
                                         <a href="#" class="main-slider__btn thm-btn">Book Us Live
                                             <span class="icon-arrow-right"></span> </a>
@@ -212,23 +217,23 @@
                                         experience, build confidence, and celebrate <br> your hard work and dedication
                                         alongside your peers and instructors.</p>
                                     <!-- <ul class="list-unstyled main-slider__address">
-                                                    <li>
-                                                        <div class="icon">
-                                                            <span class="icon-pin"></span>
-                                                        </div>
-                                                        <div class="text">
-                                                            <p>Mirpur 01 Road N 12 Dhaka Bangladesh</p>
-                                                        </div>
-                                                    </li>
-                                                    <li>
-                                                        <div class="icon">
-                                                            <span class="icon-clock"></span>
-                                                        </div>
-                                                        <div class="text">
-                                                            <p>10 Am To 10 Pm 20 April 2024</p>
-                                                        </div>
-                                                    </li>
-                                                </ul> -->
+                                                        <li>
+                                                            <div class="icon">
+                                                                <span class="icon-pin"></span>
+                                                            </div>
+                                                            <div class="text">
+                                                                <p>Mirpur 01 Road N 12 Dhaka Bangladesh</p>
+                                                            </div>
+                                                        </li>
+                                                        <li>
+                                                            <div class="icon">
+                                                                <span class="icon-clock"></span>
+                                                            </div>
+                                                            <div class="text">
+                                                                <p>10 Am To 10 Pm 20 April 2024</p>
+                                                            </div>
+                                                        </li>
+                                                    </ul> -->
                                     <div class="main-slider__btn-box pt-4">
                                         <a href="#" class="main-slider__btn thm-btn">Book Us Live
                                             <span class="icon-arrow-right"></span> </a>
@@ -248,30 +253,30 @@
                     </div>
                 </div>
                 <!-- <div class="swiper-slide">
-                                <div class="main-slider__img">
-                                    <img src="assets/images/resources/main-slider-img-1-3.jpg" alt="">
-                                </div>
-                                <div class="main-slider__shpae-2">
-                                    <img src="assets/images/shapes/main-slider-shape-2.png" alt="">
-                                </div>
-                                <div class="container">
-                                    <div class="row">
-                                        <div class="col-xl-12">
-                                            <div class="main-slider__content">
-                                                <p class="main-slider__sub-title">Kings Dance Studio: Where Passion Meets Movement!</p>
-                                                <h2 class="main-slider__title">Variety of Dance <br> <span>Styles</span>
-                                                </h2>
-                                                <p class="main-slider__text">From ballet and jazz to hip-hop and contemporary, Kings Dance Studio offers a diverse range of <br>dance styles to cater to different interests and preferences. Explore new genres, challenge <br> yourself creatively, and discover the joy of expression through movement.</p>
-                                                
-                                                <div class="main-slider__btn-box pt-4">
-                                                    <a href="contact.html" class="main-slider__btn thm-btn">Book Us Live
-                                                        <span class="icon-arrow-right"></span> </a>
+                                    <div class="main-slider__img">
+                                        <img src="assets/images/resources/main-slider-img-1-3.jpg" alt="">
+                                    </div>
+                                    <div class="main-slider__shpae-2">
+                                        <img src="assets/images/shapes/main-slider-shape-2.png" alt="">
+                                    </div>
+                                    <div class="container">
+                                        <div class="row">
+                                            <div class="col-xl-12">
+                                                <div class="main-slider__content">
+                                                    <p class="main-slider__sub-title">Kings Dance Studio: Where Passion Meets Movement!</p>
+                                                    <h2 class="main-slider__title">Variety of Dance <br> <span>Styles</span>
+                                                    </h2>
+                                                    <p class="main-slider__text">From ballet and jazz to hip-hop and contemporary, Kings Dance Studio offers a diverse range of <br>dance styles to cater to different interests and preferences. Explore new genres, challenge <br> yourself creatively, and discover the joy of expression through movement.</p>
+                                                    
+                                                    <div class="main-slider__btn-box pt-4">
+                                                        <a href="contact.html" class="main-slider__btn thm-btn">Book Us Live
+                                                            <span class="icon-arrow-right"></span> </a>
+                                                    </div>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
-                                </div>
-                            </div> -->
+                                </div> -->
             </div>
             <div class="swiper-pagination" id="main-slider-pagination"></div>
             <!-- If we need navigation buttons -->
@@ -279,30 +284,52 @@
     </section>
     <!--Main Slider End-->
 
+    <style>
+        .buy-ticket {
+            position: relative;
+        }
+
+        .ele1 {
+            position: absolute;
+            top: 0%;
+            left: -8%;
+            opacity:0.6 !important;
+        }
+
+        .ele1 img {
+            width: calc(100% - 340px);
+            height: 100%;
+            object-fit: cover;
+        }
+    </style>
+
     <!-- Buy Ticket Start -->
     <section class="buy-ticket">
+        <div class="ele1" data-aos="fade-right" data-aos-duration="1000">
+            <img src="{{ asset('assets/images/kings img/lion_logo.png') }}" alt="">
+        </div>
         <div class="container">
             <div class="row">
                 <div class="col-xl-6">
-                    <div class="buy-ticket__left wow fadeInLeft" data-wow-delay="100ms">
+                    <div class="buy-ticket__left" data-aos="fade-right" data-aos-duration="1000">
                         <!-- <ul class="buy-ticket__address list-unstyled">
-                                        <li>
-                                            <div class="icon">
-                                                <span class="icon-clock"></span>
-                                            </div>
-                                            <div class="text">
-                                                <p>Mirpur 01 Road N 12 Dhaka Bangladesh</p>
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <div class="icon">
-                                                <span class="icon-pin"></span>
-                                            </div>
-                                            <div class="text">
-                                                <p>10 Am To 10 Pm 20 April 2024</p>
-                                            </div>
-                                        </li>
-                                    </ul> -->
+                                            <li>
+                                                <div class="icon">
+                                                    <span class="icon-clock"></span>
+                                                </div>
+                                                <div class="text">
+                                                    <p>Mirpur 01 Road N 12 Dhaka Bangladesh</p>
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="icon">
+                                                    <span class="icon-pin"></span>
+                                                </div>
+                                                <div class="text">
+                                                    <p>10 Am To 10 Pm 20 April 2024</p>
+                                                </div>
+                                            </li>
+                                        </ul> -->
                         <h3 class="buy-ticket__title">About Kings</h3>
                         <p class="buy-ticket__text">At The Kings, we don’t just dance; we elevate it to an art form. From
                             our humble beginnings to becoming international champions, our journey has been nothing short of
@@ -322,7 +349,7 @@
                     </div>
                 </div>
                 <div class="col-xl-6">
-                    <div class="buy-ticket__right wow fadeInRight" data-wow-delay="300ms">
+                    <div class="buy-ticket__right" data-aos="fade-left" data-aos-duration="1000">
                         <div class="buy-ticket__img">
                             <img src="{{ asset('assets/images/kings img/about22.jpg') }}" alt="">
                         </div>
@@ -333,8 +360,32 @@
     </section>
     <!-- Buy Ticket End -->
 
+    
+    <style>
+        .services-one {
+            position: relative;
+        }
+
+        .ele2 {
+            position: absolute;
+            top: 35%;
+            right: -8%;
+            opacity:0.6;
+            transform: rotateY(180deg);
+        }
+
+        .ele2 img {
+            width: calc(100% - 340px);
+            height: 100%;
+            object-fit: cover;
+        }
+    </style>
+
     <!--Services One Start-->
     <section class="services-one">
+        <div class="ele2">
+            <img src="{{ asset('assets/images/kings img/lion_logo.png') }}" alt="" data-aos="fade-right" data-aos-duration="1000">
+        </div>
         <div class="container">
             <div class="section-title text-center">
                 <div class="section-title__tagline-box">
@@ -1459,35 +1510,35 @@
                             </div>
                         </div><!-- /.swiper-slide -->
                         <!-- <div class="swiper-slide">
-                                        <div class="swiper-slide__img">
-                                            <a href="#"><img src="assets/images/brand/brand-1-5.png" alt=""></a>
+                                            <div class="swiper-slide__img">
+                                                <a href="#"><img src="assets/images/brand/brand-1-5.png" alt=""></a>
+                                            </div>
                                         </div>
-                                    </div>
-                                    <div class="swiper-slide">
-                                        <div class="swiper-slide__img">
-                                            <a href="#"><img src="assets/images/brand/brand-1-1.png" alt=""></a>
+                                        <div class="swiper-slide">
+                                            <div class="swiper-slide__img">
+                                                <a href="#"><img src="assets/images/brand/brand-1-1.png" alt=""></a>
+                                            </div>
                                         </div>
-                                    </div>
-                                    <div class="swiper-slide">
-                                        <div class="swiper-slide__img">
-                                            <a href="#"><img src="assets/images/brand/brand-1-2.png" alt=""></a>
+                                        <div class="swiper-slide">
+                                            <div class="swiper-slide__img">
+                                                <a href="#"><img src="assets/images/brand/brand-1-2.png" alt=""></a>
+                                            </div>
                                         </div>
-                                    </div>
-                                    <div class="swiper-slide">
-                                        <div class="swiper-slide__img">
-                                            <a href="#"><img src="assets/images/brand/brand-1-3.png" alt=""></a>
+                                        <div class="swiper-slide">
+                                            <div class="swiper-slide__img">
+                                                <a href="#"><img src="assets/images/brand/brand-1-3.png" alt=""></a>
+                                            </div>
                                         </div>
-                                    </div>
-                                    <div class="swiper-slide">
-                                        <div class="swiper-slide__img">
-                                            <a href="#"><img src="assets/images/brand/brand-1-4.png" alt=""></a>
+                                        <div class="swiper-slide">
+                                            <div class="swiper-slide__img">
+                                                <a href="#"><img src="assets/images/brand/brand-1-4.png" alt=""></a>
+                                            </div>
                                         </div>
-                                    </div>
-                                    <div class="swiper-slide">
-                                        <div class="swiper-slide__img">
-                                            <a href="#"><img src="assets/images/brand/brand-1-5.png" alt=""></a>
-                                        </div>
-                                    </div> -->
+                                        <div class="swiper-slide">
+                                            <div class="swiper-slide__img">
+                                                <a href="#"><img src="assets/images/brand/brand-1-5.png" alt=""></a>
+                                            </div>
+                                        </div> -->
                     </div>
                 </div>
             </div>
@@ -1617,4 +1668,8 @@
         </div>
     </section>
     <!--Blog One End-->
+
+    <script>
+        AOS.init();
+      </script>
 @endsection
